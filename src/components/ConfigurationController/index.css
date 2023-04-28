@@ -1,0 +1,22 @@
+.configuration-container {
+  background-color: #475569;
+  width: 100vw;
+  height: 25vh;
+  display: flex;
+  flex-direction: column;
+}
+.configuration-heading {
+  color: #ffffff;
+  margin-left: 30px;
+}
+.checkbox-cintainer {
+  margin-left: 30px;
+  display: flex;
+  align-items: center;
+  margin-top: 10px;
+}
+.label {
+  color: #ffffff;
+  font-size: 12px;
+  margin-left: 5px;
+}
